@@ -19,6 +19,6 @@ O conjunto de dados utilizado é **nobel_prize_data.csv**, disponível neste rep
 
 ## 🚀 Como Executar
 1. Abra o notebook no **Google Colab** clicando no botão abaixo:
-   -([https://colab.research.google.com/github/Brunno1012/Analise-Premio-Nobel/blob/main/PremioNobel_(1).ipynb])
-   -[Após entrar no link acima, dentro do colab em arquivos faça o upload do arquivo nobel_prize_data.csv disponivel no repositório]
-   -Agora é só rodar as linhas de código!
+   - ([https://colab.research.google.com/github/Brunno1012/Analise-Premio-Nobel/blob/main/PremioNobel_(1).ipynb])
+   - Após entrar no link acima, dentro do colab em arquivos faça o upload do arquivo nobel_prize_data.csv disponivel no repositório
+   - Agora é só rodar as linhas de código!
